@@ -36,7 +36,7 @@ This project analyzes transactional sales and product data from Blinkit to:
 - **Sales by Outlet Size** (Pie)
 - **Sales by Outlet Location** (Bar Chart)
 
-## 🛠Technologies Used
+## Technologies Used
 
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
