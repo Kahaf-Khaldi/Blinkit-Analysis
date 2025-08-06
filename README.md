@@ -27,7 +27,7 @@ This project analyzes transactional sales and product data from Blinkit to:
 - **Number of Items:** Total count of different items sold.
 - **Average Rating:** Mean customer rating for sold items.
 
-## 📈Visualizations
+## Visualizations
 
 - **Total Sales by Fat Content** (Donut Chart)
 - **Total Sales by Item Type** (Bar Chart)
@@ -36,7 +36,7 @@ This project analyzes transactional sales and product data from Blinkit to:
 - **Sales by Outlet Size** (Pie)
 - **Sales by Outlet Location** (Bar Chart)
 
-## 🛠️Technologies Used
+## 🛠Technologies Used
 
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
